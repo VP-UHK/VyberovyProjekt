@@ -12,7 +12,7 @@ import java.util.Map;
  * @author Tomáš Kolinger <tomas@kolinger.name>
  */
 public class Agent implements Serializable {
-
+//pokus 2
     private String id;
     private String platform;
     private Map<String, String> attributes = new HashMap<>();
